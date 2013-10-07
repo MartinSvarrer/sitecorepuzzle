@@ -1,0 +1,1105 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"appl",
+				"applyOrientation"
+			],
+			[
+				"im",
+				"imageList"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"img",
+				"imgList"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"script",
+				"script"
+			],
+			[
+				"pos",
+				"posIndex"
+			],
+			[
+				"ai",
+				"ai_intermediate"
+			],
+			[
+				"op",
+				"opponentMoves"
+			],
+			[
+				"poss",
+				"possibleMoves"
+			],
+			[
+				"upda",
+				"updateWinningMoves"
+			],
+			[
+				"move",
+				"movesLeft"
+			],
+			[
+				"winn",
+				"winningMoves"
+			],
+			[
+				"wi",
+				"winningMoves"
+			],
+			[
+				"get",
+				"getWinningMovesFor"
+			],
+			[
+				"cro",
+				"crossLeft"
+			],
+			[
+				"shoul",
+				"shouldCrossR"
+			],
+			[
+				"col",
+				"colStart"
+			],
+			[
+				"thr",
+				"threeInLineHorizontally"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"set",
+				"setPiece"
+			],
+			[
+				"on",
+				"onComplete"
+			],
+			[
+				"prt",
+				"prototype"
+			],
+			[
+				"win",
+				"winnner"
+			],
+			[
+				"gam",
+				"gameLoop"
+			],
+			[
+				"pla",
+				"player2"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"play",
+				"playerCount"
+			],
+			[
+				"PL",
+				"PLA2"
+			],
+			[
+				"PLA",
+				"PLA2"
+			],
+			[
+				"rand",
+				"randomPick"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"twi",
+				"twitterWrapper"
+			],
+			[
+				"link",
+				"link"
+			],
+			[
+				"ext",
+				"extensions"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"orig",
+				"origSize"
+			],
+			[
+				"targ",
+				"targetWidth"
+			],
+			[
+				"floo",
+				"floorTop"
+			],
+			[
+				"fl",
+				"floorHeight"
+			],
+			[
+				"flo",
+				"floorPerc"
+			],
+			[
+				"size",
+				"sizeLogic"
+			],
+			[
+				"app",
+				"applyFunc"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"box",
+				"boxHeight"
+			],
+			[
+				"bo",
+				"boxWidth"
+			],
+			[
+				"ou",
+				"outerWidth"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"tar",
+				"targetWidth"
+			],
+			[
+				"outer",
+				"outerWidth"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"scal",
+				"scale"
+			],
+			[
+				"in",
+				"innerWidth"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ligt",
+				"Lightbox"
+			],
+			[
+				"sca",
+				"scale"
+			],
+			[
+				"side",
+				"sideSwitch"
+			],
+			[
+				"oute",
+				"outerWidth"
+			],
+			[
+				"ori",
+				"origSize"
+			],
+			[
+				"target",
+				"targetWidth"
+			],
+			[
+				"inne",
+				"innerHeight"
+			],
+			[
+				"inner",
+				"innerWidth"
+			],
+			[
+				"out",
+				"outerHeight"
+			],
+			[
+				"sto",
+				"storRef"
+			],
+			[
+				"stor",
+				"storageSize"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"getOrSe",
+				"getOrSetStorage"
+			],
+			[
+				"apl",
+				"applyFunc"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"current",
+				"currentPage"
+			],
+			[
+				"View",
+				"ViewClass"
+			],
+			[
+				"model",
+				"model	model"
+			],
+			[
+				"next",
+				"nextImg"
+			],
+			[
+				"prev",
+				"previous"
+			],
+			[
+				"incl",
+				"includeMargin"
+			],
+			[
+				"vale",
+				"values"
+			],
+			[
+				"calc",
+				"calcHeight"
+			],
+			[
+				"pain",
+				"paintSize"
+			],
+			[
+				"targe",
+				"targetHeight"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"is",
+				"isFirst"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"animat",
+				"animationStartTimer"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"scaled",
+				"scaledHeight"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"al",
+				"align"
+			],
+			[
+				"align",
+				"alignString"
+			],
+			[
+				"cover",
+				"coverString"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"alig",
+				"alignV"
+			],
+			[
+				"offs",
+				"offsetHor"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"wa",
+				"wallSize"
+			],
+			[
+				"pa",
+				"paintSize"
+			],
+			[
+				"g",
+				"gallery"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"bacgr",
+				"background"
+			],
+			[
+				"ekstra",
+				"ekstraHeight"
+			],
+			[
+				"ma",
+				"maxTop"
+			],
+			[
+				"es",
+				"ekstraHeight"
+			],
+			[
+				"slid",
+				"slideIn"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"windo",
+				"windowWidth"
+			],
+			[
+				"POS",
+				"position"
+			],
+			[
+				"l",
+				"l	left"
+			],
+			[
+				"_",
+				"_size	Underscore _.size()"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/MartinSvarrer/Google Drev/projects/Sitecore puzzle/imagelist.html",
+			"settings":
+			{
+				"buffer_size": 868,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 2213,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/test.less",
+			"settings":
+			{
+				"buffer_size": 17,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/MartinSvarrer/Google Drev/projects/Sitecore puzzle/css/style.css",
+			"settings":
+			{
+				"buffer_size": 733,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"build",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"jqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggl",
+				"View: Toggle Minimap"
+			],
+			[
+				"fit",
+				"Minify Javascript"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"snippet",
+				"Snippet: HTML - HTML5 shiv"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet: ",
+				"Snippet: Prototype"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"jq",
+				"Snippet: jQuery click handler"
+			],
+			[
+				"snippet html inclu",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"snippet undersc",
+				"Snippet: Underscore _.each()"
+			],
+			[
+				"snippet: cuso",
+				"Snippet: CSS - cursor: pointer;"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/MartinSvarrer/Google Drev/projects/sitecore puzzle/css/styles.css",
+		"/C/Users/MartinSvarrer/Google Drev/projects/Sitecore puzzle/imagelist.htm",
+		"/C/Users/MartinSvarrer/Programming/TicTacToe/js/game.todo",
+		"/C/Users/MartinSvarrer/Programming/TicTacToe/css/styles.css",
+		"/C/Users/MartinSvarrer/Programming/TicTacToe/js/game.js",
+		"/C/Users/MartinSvarrer/Programming/Twitter feed/index.html",
+		"/C/Users/MartinSvarrer/Programming/Node/app.js",
+		"/C/Users/MartinSvarrer/Programming/Node/index.html",
+		"/C/xampp/htdocs/jydesmeden/wp-content/themes/hh-2011/functions.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden raw/wp-content/themes/hh-2011/footer.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden raw/wp-content/plugins/animation-menu/animations-menu.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden theme/themes/hh-2011/bck/front-page.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden theme/themes/hh-2011/js/script.js",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden theme/themes/hh-2011/js/plugins.js",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden theme/themes/hh-2011/index.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden theme/themes/hh-2011/front-page.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden theme/themes/index.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden theme/index.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden raw/wp-content/themes/hh-2011/front-page.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden raw/wp-content/themes/hh-2011/index.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden raw/wp-content/themes/index.php",
+		"/C/xampp/htdocs/jydesmeden3/wp-content/themes/hh-2011/index.php",
+		"/C/xampp/htdocs/jydesmeden/wp-content/themes/hh-2011/front-page.php",
+		"/C/xampp/htdocs/jydesmeden3/wp-content/themes/hh-2011/functions.php",
+		"/C/xampp/htdocs/jydesmeden/wp-config-sample.php",
+		"/C/xampp/htdocs/jydesmeden/wp-content/themes/hh-2011/index.php",
+		"/C/xampp/htdocs/jydesmeden/wp-content/themes/hh-2011/page-templates/page-list.php",
+		"/C/xampp/htdocs/jydesmeden3/wp-content/themes/hh-2011/page-templates/page.php",
+		"/C/xampp/htdocs/jydesmeden2/wp-config.php",
+		"/C/xampp/htdocs/jydesmeden/wp-content/themes/hh-2011/page-templates/sub-page-list.php",
+		"/C/xampp/htdocs/jydesmeden3/wp-config.php",
+		"/C/xampp/htdocs/jydesmeden2/wp-config-sample.php",
+		"/C/Users/MartinSvarrer/Desktop/jydesmeden raw/wp-config.php",
+		"/C/xampp/htdocs/jydesmeden2/index.php",
+		"/C/xampp/htdocs/jydesmeden/wp-config.php",
+		"/C/xampp/htdocs/jydesmeden/wp-content/themes/hh-2011/bck/front-page.php",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fit.js/mono.html",
+		"/C/Users/MartinSvarrer/Downloads/wordpress-3.5.1/wordpress/wp-config.php",
+		"/C/xampp/htdocs/gredsted/wp-content/themes/gredsted/js/views/gallery.js",
+		"/C/xampp/htdocs/gredsted/wp-content/themes/twentytwelve/content-link.php",
+		"/C/xampp/htdocs/gredsted/wp-content/themes/gredsted/tasks.todo",
+		"/C/xampp/htdocs/gredsted/wp-content/themes/gredsted/header.php",
+		"/C/xampp/htdocs/gredsted/wp-content/themes/gredsted/index.php",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fit.js/index.html",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fit.js/fit.js",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fit.js/simple test.html",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fit.js/README.md",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fit.js/todo.TODO",
+		"/C/xampp/htdocs/gredsted/wp-config.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/themes/hh-2011/header.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/themes/hh-2011/footer.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/themes/hh-2011/front-page.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/themes/hh-2011/style.css",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/themes/hh-2011/js/plugins.js",
+		"/C/Users/MartinSvarrer/Downloads/prettyPhoto_compressed_3.1.5/js/jquery.prettyPhoto.js",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/index.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/plugins/animation-menu/animations-menu.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/themes/hh-2011/index.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/themes/index.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/themes/hh-2011/js/script.js",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-content/themes/hh-2011/bck/front-page.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/wp-blog-header.php",
+		"/C/Users/MartinSvarrer/Desktop/rentabil.dk/index.php",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/index.html",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/js/views/navigation.js",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/js/views/gallery.js",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/css/style.less",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/js/main.js",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/todo.TODO",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/img/bg/quote.gif",
+		"/C/Users/MartinSvarrer/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript/model.sublime-snippet",
+		"/C/Users/MartinSvarrer/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript/view.sublime-snippet",
+		"/C/Users/MartinSvarrer/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/MartinSvarrer/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript/define.sublime-snippet",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/tasks.todo",
+		"/C/Users/MartinSvarrer/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/js/framework/utils.js",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fit/index.html",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fit/fit.js",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fitTo/README.md",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fitTo/example.html",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fitTo/fit.js",
+		"/C/Users/MartinSvarrer/Google Drev/projects/martinsvarrer/index.html",
+		"/C/Users/MartinSvarrer/Desktop/displayutils/uk/soulwire/utils/display/DisplayUtils.as",
+		"/C/Users/MartinSvarrer/Google Drev/projects/fitTo/index.html",
+		"/C/Users/MartinSvarrer/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/MartinSvarrer/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/MartinSvarrer/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript/that.sublime-snippet",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/css/second.less",
+		"/C/Users/MartinSvarrer/Google Drev/projects/gredsted/js/libs/r.js",
+		"/C/Users/Martin/Google Drev/projects/gredsted/img/gallery/im1120x100.jpg",
+		"/C/Users/Martin/Google Drev/projects/gredsted/js/views/contents",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Martin/Downloads/Gredsted.com/Gredsted.com/img/bg/baggrund - Kopi.jpg",
+		"/C/Users/Martin/Google Drev/projects/gredsted/js/helper/utils.js",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript/consoleLog.sublime-snippet",
+		"/C/Users/Martin/Google Drev/projects/gredsted/css/style.less",
+		"/C/Users/Martin/Google Drev/sublime/snippets/log.sublime-snippet",
+		"/C/Users/Martin/Google Drev/projects/gredsted/index.html",
+		"/C/Users/Martin/Google Drev/projects/gredsted.com/css/style.css",
+		"/C/Users/Martin/Google Drev/projects/less test/index.html",
+		"/C/Users/Martin/Google Drev/projects/less test/styles.less",
+		"/C/Users/Martin/Google Drev/projects/flex test/main.mxml",
+		"/C/Users/Martin/Google Drev/projects/less test/styles.css",
+		"/C/Users/Martin/Google Drev/projects/less test/styles.min.css",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"'},\n",
+			";\n",
+			"''},",
+			"updateWinningMoves",
+			"randomPick",
+			"nnn",
+			"get_menu_pages",
+			"as_smiley_transistion",
+			"as_menu_transistion",
+			"nav({",
+			"$.nav({",
+			"$.nav({ transitionSpeed:",
+			"/*$.smiley({ transitionSpeed: , delay:  });*/\n/*$.smiley({ transitionSpeed: , delay:  });*/\n/*$.smiley({ transitionSpeed: , delay:  });*/\n/*$.smiley({ transitionSpeed: , delay:  });*/\n$.nav({ transitionSpeed:",
+			"cid",
+			"targetWidth",
+			"setScaledData",
+			"align",
+			"();\n",
+			"z-",
+			"positionPainting",
+			"getPaintingSizes",
+			"src",
+			"setImageWrapper",
+			"blur",
+			"depth",
+			"calculateBg",
+			"setImageWrapper",
+			";\n",
+			",\n",
+			"calculateBg",
+			"tY",
+			"x",
+			"tY",
+			"tX",
+			"scaleWidth",
+			"w",
+			"s",
+			"sV",
+			"sH",
+			"rR",
+			"rD",
+			"sY",
+			"sX",
+			"hR",
+			"wR",
+			"eH",
+			"eW",
+			"hD",
+			"wD",
+			"String",
+			"';\n",
+			"h2",
+			"p",
+			"optional",
+			"*",
+			">\n",
+			"positionAllPaintings",
+			"</div>",
+			"<div class=\"imgWrapper\">",
+			"Bottom",
+			"Middle",
+			"top",
+			">\n",
+			";\n			\n			var ",
+			";\n			var ",
+			" : Number",
+			"floorPerc",
+			"bh",
+			"wh",
+			"bw",
+			"ww",
+			"();\n",
+			"7",
+			").",
+			"');\n",
+			"script",
+			"gallery",
+			">\n",
+			"libs",
+			"meta",
+			";\n",
+			"//  ",
+			"Fra",
+			">\n",
+			"p",
+			"</",
+			"\n</",
+			"ul",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/MartinSvarrer/Google Drev/projects/Sitecore puzzle/imagelist.html",
+					"settings":
+					{
+						"buffer_size": 868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 2213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1066,
+								1066
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/test.less",
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/MartinSvarrer/Google Drev/projects/Sitecore puzzle/css/style.css",
+					"settings":
+					{
+						"buffer_size": 733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fit.js",
+				"wp-content/themes/gredsted/js/libs/fit.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Martin/Google Drev/projects/as to js presentation/astojs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true
+}

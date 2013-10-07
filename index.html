@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Given a set of Images, render images into an ImageList.">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Sitecore puzzle</title>
+		<link rel="stylesheet" href="css/style.css">
+		<script src="libs/underscore-min.js"></script>
+	</head>
+	<body>
+		<!-- Static markup -->
+		<h1 class="title">Sitecore Puzzle</h1>
+
+		<ul id="imageList" class="imageList"></ul>
+		<button id="showMore" class="showMore" type="button">Show more</button>
+
+		<!-- Template -->
+		<script type="text/template" id="imgTmpl">
+			<% _.each(images, function(image) { %>
+				<li class="figure">
+					<div class="frame">
+						<img src="<%= image.url %>" />
+					</div>
+					<div class="caption"><%= image.name %></div>
+				</li>
+			<% }); %>
+		</script>
+
+		<!-- Main script -->
+		<script src="js/main.js"></script>
+	</body>
+</html>

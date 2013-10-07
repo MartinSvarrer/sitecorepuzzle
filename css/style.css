@@ -1,0 +1,57 @@
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	margin: 10px 0;
+}
+
+.imageList {
+	margin: 0;
+	max-height: 680px;
+	padding: 10px;
+	background: lightgray;
+	overflow-y: auto;
+	overflow-x: hidden;
+	list-style-type: none;
+}
+
+.imageList .figure {
+	float: left;
+	margin: 10px;
+}
+
+.imageList .caption {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	width: 140px;
+	margin-top: 5px;
+}
+
+.imageList .frame {
+	width: 140px;
+	height: 140px;
+	border: 1px solid gray;
+	background: #eee;
+	line-height: 140px;
+	text-align: center;
+	overflow: hidden;
+}
+
+.imageList .frame .landscape {
+	width: 100%;
+	height: auto;
+	vertical-align: middle;
+}
+
+.imageList .frame .portrait {
+	width: auto;
+	height: 100%;
+}
+
+.showMore {
+	margin: 5px auto;
+	display: block;
+}

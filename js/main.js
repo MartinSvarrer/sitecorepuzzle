@@ -1,8 +1,7 @@
 (function () {
 	var showMore = document.querySelector('#showMore'),
 		imageList = document.querySelector('#imageList'),
-		imgTmpl = document.querySelector('#imgTmpl').innerHTML,
-		emptyMessage = imageList.querySelector('.empty');
+		imgTmpl = document.querySelector('#imgTmpl').innerHTML;
 	
 	showMore.addEventListener('click', function () {
 		layOutImages([

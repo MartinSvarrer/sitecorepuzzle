@@ -2,7 +2,8 @@
 Here are some comments on my decisions.
 
 Works on all major browsers.
-Tested on IE9+, FF, Chrome, Android (Chrome), WP8 (IE), iPad (Safari).
+Tested on IE9, IE10, FF, Chrome, Android 4 (Chrome), WP8 (IE), iPad IOS6 (Safari), iPhone IOS7 (Safari).
+IE8 and below is not supported.
 
 #### Librarys
 Only library used is Underscore, mainly for its template engine.
